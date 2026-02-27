@@ -15,21 +15,41 @@ With a background in Computer Science Engineering, I am committed to strengtheni
 - Telegram: [@Bobai23](https://t.me/Bobai23)
 
 
-## Highlights(coming soon)
-|Contest|Description|Findings|Rank|Report|
-|:------|:----------|:-------|:--:|:----:|
-|-|-|-|-|-|
+## Highlights
+|Contest|Platform|Findings|Rank|
+|:------|:----------|:--:|:--:|
+|[]()|-|-|🏆🥇🥈🥉️ #|
+|[Brix Money](https://code4rena.com/audits/2025-11-brix-money)|Code4rena|1M|🥈 #2|
+|[Inverse Finance](https://audits.sherlock.xyz/contests/1202)|Sherlock|1M|🥉️ #3|
+|[BMX](https://audits.sherlock.xyz/contests/1154)|Sherlock|2H|🏆 #6|
+|[Alignerz](https://github.com/dualguard/2025-11-alignerz)|DualGuard|7H,2M|🏆 #7|
+|[Centrifuge](https://audits.sherlock.xyz/contests/1028)|Sherlock|1M|🏆 #11|
+|[Nudge](https://code4rena.com/audits/2025-03-nudgexyz)|Code4rena|1M|🏆 #12|
+
 ## Private Audits
-|Protocol|Scope|Description|Findings|Report|
-|:-------|:----|:----------|:-------|:----:|
-|-|-|-|-|-|
+|Protocol|Scope|Description|Findings|
+|:-------|:----|:----------|:-------|
+|-|-|-|-|
 
 ## Engagments(coming soon)
-|Company|Protocol|Description|Findings|Report|
-|:------|:-------|:----------|:-------|:----:|
-|-|-|-|-|-|
+|Company|Protocol|Description|Findings|
+|:------|:-------|:----------|:-------|
+|-|-|-|-|
 
-## Audit Contests(coming soon)
-|Contest|Description|Findings|Rank|Report|
-|:------|:----------|:-------|:--:|:----:|
-|-|-|-|-|-|
+## Audit Contests
+|Contest|Platform|Findings|Rank|
+|:------|:----------|:--:|:--:|
+|[]()|-|-|🏆🥇🥈🥉️ #|
+|[Alignerz](https://github.com/dualguard/2025-11-alignerz)|DualGuard|7H,2M|🏆 #7|
+|[Monolith](https://audits.sherlock.xyz/contests/1212)|Sherlock|1M|🏆 #23|
+|[Brix Money](https://code4rena.com/audits/2025-11-brix-money)|Code4rena|1M|🥈 #2|
+|[EaseDeFi](https://audits.sherlock.xyz/contests/1203)|Sherlock|1H|🏆 #52|
+|[Inverse Finance](https://audits.sherlock.xyz/contests/1202)|Sherlock|1M|🥉️ #3|
+|[Centrifuge](https://audits.sherlock.xyz/contests/1028)|Sherlock|1M|🏆 #11|
+|[Super DCA ](https://audits.sherlock.xyz/contests/1171)|Sherlock|1H,1M|🏆 #50|
+|[BMX](https://audits.sherlock.xyz/contests/1154)|Sherlock|2H|🏆 #6|
+|[Malda](https://audits.sherlock.xyz/contests/1029)|Sherlock|1M|🏆 #21|
+|[Nudge](https://code4rena.com/audits/2025-03-nudgexyz)|Code4rena|1M|🏆 #12|
+|[RAAC](https://codehawks.cyfrin.io/c/2025-02-raac)|CodeHawks|3M,2L|🏆 #141|
+
+
