@@ -16,15 +16,15 @@ With a background in Computer Science Engineering, I am committed to strengtheni
 
 
 ## Highlights
-|Contest|Platform|Findings|Rank|
-|:------|:----------|:--:|:--:|
-|[]()|-|-|🏆🥇🥈🥉️ #|
-|[Brix Money](https://code4rena.com/audits/2025-11-brix-money)|Code4rena|1M|🥈 #2|
-|[Inverse Finance](https://audits.sherlock.xyz/contests/1202)|Sherlock|1M|🥉️ #3|
-|[BMX](https://audits.sherlock.xyz/contests/1154)|Sherlock|2H|🏆 #6|
-|[Alignerz](https://github.com/dualguard/2025-11-alignerz)|DualGuard|7H,2M|🏆 #7|
-|[Centrifuge](https://audits.sherlock.xyz/contests/1028)|Sherlock|1M|🏆 #11|
-|[Nudge](https://code4rena.com/audits/2025-03-nudgexyz)|Code4rena|1M|🏆 #12|
+|Contest|Platform|Rank|
+|:------|:----------|:--:|
+|[]()|-|🏆🥇🥈🥉️ #|
+|[Brix Money](https://code4rena.com/audits/2025-11-brix-money)|Code4rena|🥈 #2|
+|[Inverse Finance](https://audits.sherlock.xyz/contests/1202)|Sherlock|🥉️ #3|
+|[BMX](https://audits.sherlock.xyz/contests/1154)|Sherlock|🏆 #6|
+|[Alignerz](https://github.com/dualguard/2025-11-alignerz)|DualGuard|🏆 #7|
+|[Centrifuge](https://audits.sherlock.xyz/contests/1028)|Sherlock|🏆 #11|
+|[Nudge](https://code4rena.com/audits/2025-03-nudgexyz)|Code4rena|🏆 #12|
 
 ## Private Audits
 |Protocol|Scope|Description|Findings|
