@@ -26,10 +26,6 @@ With a background in Computer Science Engineering, I am committed to strengtheni
 |[Centrifuge](https://audits.sherlock.xyz/contests/1028)|Sherlock|🏆 #11|
 |[Nudge](https://code4rena.com/audits/2025-03-nudgexyz)|Code4rena|🏆 #12|
 
-## Private Audits
-|Protocol|Scope|Description|Findings|
-|:-------|:----|:----------|:-------|
-|-|-|-|-|
 
 ## Radcipher's [Weekly Audit Arena](https://radcipher.com/competition)  
 |Week|Description|Findings|Rank|
@@ -43,6 +39,12 @@ With a background in Computer Science Engineering, I am committed to strengtheni
 |8|Broken Stream Ledger|1C,1H,1M,1L|🥈|
 |10|Replay Voucher Sale|1C,1H,1M|🥈|
 |-|-|-|🏆🥇🥈🥉️ #|
+
+## Private Audits
+|Protocol|Scope|Description|Findings|
+|:-------|:----|:----------|:-------|
+|-|-|-|-|
+
 
 ## Audit Contests
 |Contest|Platform|Findings|Rank|
