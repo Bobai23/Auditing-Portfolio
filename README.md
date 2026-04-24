@@ -30,14 +30,16 @@ With a background in Computer Science Engineering, I am committed to strengtheni
 ## Radcipher's [Weekly Audit Arena](https://radcipher.com/competition)  
 |Week|Description|Findings|Rank|
 |:------|:-------|:----------|:-------|
-|2|Converter Collateral Chaos|3C|🥈|
-|3|Phantom Quorum DAO|1C,1H|🏆4|
-|4|Presale Config Ghost|1C,1H,1L|🥉️|
-|5|TimeLock Trap|1H,1M,1L|🥉️|
-|6|Phantom Rewards Staking|1C,2H,1M,1L|🏆4|
-|7|Escrow Maze|1C,2H,1L|🥈|
-|8|Broken Stream Ledger|1C,1H,1M,1L|🥈|
-|10|Replay Voucher Sale|1C,1H,1M|🥈|
+|2|Converter Collateral Chaos|3C|🥈#2|
+|3|Phantom Quorum DAO|1C,1H|🏆#4|
+|4|Presale Config Ghost|1C,1H,1L|🥉️#3|
+|5|TimeLock Trap|1H,1M,1L|🥉️#3|
+|6|Phantom Rewards Staking|1C,2H,1M,1L|🏆#4|
+|7|Escrow Maze|1C,2H,1L|🥈#2|
+|8|Broken Stream Ledger|1C,1H,1M,1L|🥈#2|
+|10|Replay Voucher Sale|1C,1H,1M|🥈#2|
+|11|Splitter Stress Test|1H,3M,1L|🥇#1|
+|12|Epoch Mirage Rewards|1H,1L|🥇#1|
 |-|-|-|🏆🥇🥈🥉️ #|
 
 ## Private Audits
