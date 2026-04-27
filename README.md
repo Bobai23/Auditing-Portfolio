@@ -39,7 +39,7 @@ With a background in Computer Science Engineering, I am committed to strengtheni
 |8|Broken Stream Ledger|1C,1H,1M,1L|🥈#2|
 |10|Replay Voucher Sale|1C,1H,1M|🥈#2|
 |11|Splitter Stress Test|1H,3M,1L|🥇#1|
-|12|Epoch Mirage Rewards|1H,1L|waiting|
+|12|Epoch Mirage Rewards|1H,1L|🥇#1|
 |-|-|-|🏆🥇🥈🥉️ #|
 
 ## Private Audits
