@@ -1,7 +1,6 @@
 # Auditing-Portfolio of **Bobai23**
 My audit portfolio showcases the security contests I have participated in and the private engagements I have successfully completed, highlighting my hands-on experience and practical expertise in Web3 security.
 
-If you would like me to audit your codebase, please refer to the following Link for more details.
 
 ## About me
 I am an independent Web3 security researcher specializing in auditing logic-intensive protocols, with a primary focus on dApps and DeFi systems. I actively participate in security competitions on platforms such as Sherlock, Code4rena, Cantina, CodeHawks, and DualGuard, alongside private audit engagements. 
