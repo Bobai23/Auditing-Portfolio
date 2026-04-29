@@ -15,7 +15,7 @@ With a background in Computer Science Engineering, I am committed to strengtheni
 - Telegram: [@Bobai23](https://t.me/Bobai23)
 
 
-## Highlights
+## Contest Highlights
 |Contest|Platform|Rank|
 |:------|:----------|:--:|
 |[]()|-|🏆🥇🥈🥉️ #|
