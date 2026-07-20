@@ -14,6 +14,13 @@ With a background in Computer Science Engineering, I am committed to strengtheni
 - Telegram: [@Bobai23](https://t.me/Bobai23)
 
 
+## Private Audits
+|Protocol|Description|Provider|Report|Date|
+|:-------|:----|:----------|:-------|:-------|
+|American Spend|Prediction Market|33Labs|Pending|July 2026|
+|Robin Market|Prediction Market|Phage Security|[Link](https://github.com/phage-security/audits/blob/main/2026-05-robinMarkets.pdf)|June 2026|
+
+
 ## Contest Highlights
 |Contest|Platform|Rank|
 |:------|:----------|:--:|
@@ -24,7 +31,6 @@ With a background in Computer Science Engineering, I am committed to strengtheni
 |[Alignerz](https://github.com/dualguard/2025-11-alignerz)|DualGuard|🏆 #7|
 |[Centrifuge](https://audits.sherlock.xyz/contests/1028)|Sherlock|🏆 #11|
 |[Nudge](https://code4rena.com/audits/2025-03-nudgexyz)|Code4rena|🏆 #12|
-
 
 ## Radcipher's [Weekly Audit Arena](https://radcipher.com/competition)  
 |Week|Description|Findings|Rank|
@@ -41,10 +47,7 @@ With a background in Computer Science Engineering, I am committed to strengtheni
 |12|Epoch Mirage Rewards|1H,1L|🥇#1|
 |-|-|-|🏆🥇🥈🥉️ #|
 
-## Private Audits
-|Protocol|Scope|Description|Findings|
-|:-------|:----|:----------|:-------|
-|-|-|-|-|
+
 
 
 ## Audit Contests
