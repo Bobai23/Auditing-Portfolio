@@ -22,7 +22,7 @@ With a background in Computer Science Engineering, I am committed to strengtheni
 
 
 ## Contest Highlights
-|Contest|Platform|Rank|
+|Protocol|Platform|Rank|
 |:------|:----------|:--:|
 |[]()|-|🏆🥇🥈🥉️ #|
 |[Brix Money](https://code4rena.com/audits/2025-11-brix-money)|Code4rena|🥈 #2|
@@ -51,7 +51,7 @@ With a background in Computer Science Engineering, I am committed to strengtheni
 
 
 ## Audit Contests
-|Contest|Platform|Findings|Rank|
+|Protocol|Platform|Findings|Rank|
 |:------|:----------|:--:|:--:|
 |[]()|-|-|🏆🥇🥈🥉️ #|
 |[Alignerz](https://github.com/dualguard/2025-11-alignerz)|DualGuard|7H,2M|🏆 #7|
