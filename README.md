@@ -17,8 +17,8 @@ With a background in Computer Science Engineering, I am committed to strengtheni
 ## Private Audits
 |Protocol|Description|Provider|Report|Date|
 |:-------|:----|:----------|:-------|:-------|
-|American Spend|Prediction Market|33Labs|Pending|July 2026|
-|Robin Market|Prediction Market|Phage Security|[Link](https://github.com/phage-security/audits/blob/main/2026-05-robinMarkets.pdf)|June 2026|
+|American Spend|33Labs|Pending|July 2026|
+|Robin Market|Phage Security|[Link](https://github.com/phage-security/audits/blob/main/2026-05-robinMarkets.pdf)|June 2026|
 
 
 ## Contest Highlights
